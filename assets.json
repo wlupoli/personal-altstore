@@ -6,5 +6,13 @@
   "3603077680befc3e9ba8.ipa": {
     "sha256": "3603077680befc3e9ba8e2057e0ca6d56e09b5c4bbae6cf0b7393cc7b8eea01f",
     "size": 5376969
+  },
+  "43ec1ce4f3a784915a5f.ipa": {
+    "sha256": "43ec1ce4f3a784915a5fab68a35efc5042355c57f9d1636e8f8dc400f82686f1",
+    "size": 7745424
+  },
+  "502acd176dbf812a29ff.png": {
+    "sha256": "502acd176dbf812a29ffc5a16cea69fe3bdc1ceea951118ce7ee9147b5ae33b9",
+    "size": 18421
   }
 }
