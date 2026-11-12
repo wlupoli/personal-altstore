@@ -14,5 +14,13 @@
   "502acd176dbf812a29ff.png": {
     "sha256": "502acd176dbf812a29ffc5a16cea69fe3bdc1ceea951118ce7ee9147b5ae33b9",
     "size": 18421
+  },
+  "80e4c6bef328b2a9aceb.png": {
+    "sha256": "80e4c6bef328b2a9aceb9200060014434fdfae414dca4292244de1171c14ec96",
+    "size": 15119
+  },
+  "fa58dcdaa81078eec9a4.ipa": {
+    "sha256": "fa58dcdaa81078eec9a462fe13cc30f8ab30a936f8d5cb7981ca72a25cd54d05",
+    "size": 5215829
   }
 }
