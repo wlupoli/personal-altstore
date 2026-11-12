@@ -19,6 +19,15 @@
       "subtitle": "",
       "versions": [
         {
+          "version": "10.80",
+          "buildVersion": "190",
+          "date": "2026-11-12T19:21:37+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/2e472d5132542dec1c5a.ipa",
+          "size": 5379547,
+          "minOSVersion": "17.0",
+          "localizedDescription": "fixes extractor plugin on hemmings.com"
+        },
+        {
           "buildVersion": "189",
           "date": "2026-11-12T18:43:30+00:00",
           "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/3603077680befc3e9ba8.ipa",
