@@ -27,6 +27,35 @@
           "version": "10.79"
         }
       ]
+    },
+    {
+      "name": "Guest Parking",
+      "bundleIdentifier": "com.whitlupoli.GuestParking",
+      "developerName": "wlupoli",
+      "localizedDescription": "parking",
+      "iconURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/502acd176dbf812a29ff.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-12T18:52:43+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/43ec1ce4f3a784915a5f.ipa",
+          "size": 7745424,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "com.apple.developer.team-identifier",
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSCalendarsWriteOnlyAccessUsageDescription": "Add your parking pass's active window to your calendar.",
+          "NSCameraUsageDescription": "Scan a license plate to fill in the vehicle field."
+        }
+      },
+      "subtitle": ""
     }
   ],
   "description": "Apps for my own devices.",
