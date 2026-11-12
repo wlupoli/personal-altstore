@@ -1,5 +1,34 @@
 {
-  "apps": [],
+  "apps": [
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to scan license plates and vehicle identification numbers.",
+          "NSLocationAlwaysUsageDescription": "Used to show vehicles near your location on the map.",
+          "NSLocationUsageDescription": "Used to show vehicles near your location on the map.",
+          "NSLocationWhenInUseUsageDescription": "Used to show vehicles near your location on the map.",
+          "NSPhotoLibraryUsageDescription": "Used to attach photos to vehicle posts."
+        }
+      },
+      "bundleIdentifier": "com.wlupoli.vinwikiapp",
+      "developerName": "wlupoli",
+      "iconURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/29e6c6178b559ffb6934.png",
+      "localizedDescription": "vinwiki",
+      "name": "VinWiki",
+      "subtitle": "",
+      "versions": [
+        {
+          "buildVersion": "189",
+          "date": "2026-11-12T18:43:30+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/3603077680befc3e9ba8.ipa",
+          "minOSVersion": "17.0",
+          "size": 5376969,
+          "version": "10.79"
+        }
+      ]
+    }
+  ],
   "description": "Apps for my own devices.",
   "name": "My Apps",
   "news": [],
