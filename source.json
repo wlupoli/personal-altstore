@@ -56,6 +56,30 @@
         }
       },
       "subtitle": ""
+    },
+    {
+      "name": "Portfolio Analyzer",
+      "bundleIdentifier": "com.portfolio.analyzer",
+      "developerName": "wlupoli",
+      "localizedDescription": "analyze portfolio ",
+      "iconURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/80e4c6bef328b2a9aceb.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2026103001",
+          "date": "2026-11-12T18:56:14+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/fa58dcdaa81078eec9a4.ipa",
+          "size": 5215829,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Portfolio Analyzer needs local network access to connect to the Portfolio Analyzer server running on your Mac and to automatically discover it on your Wi-Fi network."
+        }
+      },
+      "subtitle": ""
     }
   ],
   "description": "Apps for my own devices.",
