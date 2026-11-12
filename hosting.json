@@ -1,0 +1,6 @@
+{
+  "provider": "github",
+  "githubRepository": "wlupoli/personal-altstore",
+  "releaseTag": "altstore",
+  "baseURL": ""
+}
