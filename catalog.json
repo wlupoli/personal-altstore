@@ -19,13 +19,22 @@
       "subtitle": "",
       "versions": [
         {
-          "version": "10.80",
+          "version": "10.90",
+          "buildVersion": "191",
+          "date": "2026-11-13T06:51:59+00:00",
+          "downloadURL": "asset://a1b5d8eb2e3cbecb82c7.ipa",
+          "size": 5409061,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Added carfax window sticker support (still testing)"
+        },
+        {
           "buildVersion": "190",
           "date": "2026-11-12T19:21:37+00:00",
           "downloadURL": "asset://2e472d5132542dec1c5a.ipa",
-          "size": 5379547,
+          "localizedDescription": "fixes extractor plugin on hemmings.com",
           "minOSVersion": "17.0",
-          "localizedDescription": "fixes extractor plugin on hemmings.com"
+          "size": 5379547,
+          "version": "10.80"
         },
         {
           "buildVersion": "189",
@@ -38,21 +47,6 @@
       ]
     },
     {
-      "name": "Guest Parking",
-      "bundleIdentifier": "com.whitlupoli.GuestParking",
-      "developerName": "wlupoli",
-      "localizedDescription": "parking",
-      "iconURL": "asset://502acd176dbf812a29ff.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-11-12T18:52:43+00:00",
-          "downloadURL": "asset://43ec1ce4f3a784915a5f.ipa",
-          "size": 7745424,
-          "minOSVersion": "17.0"
-        }
-      ],
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -64,31 +58,46 @@
           "NSCameraUsageDescription": "Scan a license plate to fill in the vehicle field."
         }
       },
-      "subtitle": ""
-    },
-    {
-      "name": "Portfolio Analyzer",
-      "bundleIdentifier": "com.portfolio.analyzer",
+      "bundleIdentifier": "com.whitlupoli.GuestParking",
       "developerName": "wlupoli",
-      "localizedDescription": "analyze portfolio ",
-      "iconURL": "asset://80e4c6bef328b2a9aceb.png",
+      "iconURL": "asset://502acd176dbf812a29ff.png",
+      "localizedDescription": "parking",
+      "name": "Guest Parking",
+      "subtitle": "",
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "2026103001",
-          "date": "2026-11-12T18:56:14+00:00",
-          "downloadURL": "asset://fa58dcdaa81078eec9a4.ipa",
-          "size": 5215829,
-          "minOSVersion": "17.0"
+          "buildVersion": "1",
+          "date": "2026-11-12T18:52:43+00:00",
+          "downloadURL": "asset://43ec1ce4f3a784915a5f.ipa",
+          "minOSVersion": "17.0",
+          "size": 7745424,
+          "version": "1.0"
         }
-      ],
+      ]
+    },
+    {
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSLocalNetworkUsageDescription": "Portfolio Analyzer needs local network access to connect to the Portfolio Analyzer server running on your Mac and to automatically discover it on your Wi-Fi network."
         }
       },
-      "subtitle": ""
+      "bundleIdentifier": "com.portfolio.analyzer",
+      "developerName": "wlupoli",
+      "iconURL": "asset://80e4c6bef328b2a9aceb.png",
+      "localizedDescription": "analyze portfolio ",
+      "name": "Portfolio Analyzer",
+      "subtitle": "",
+      "versions": [
+        {
+          "buildVersion": "2026103001",
+          "date": "2026-11-12T18:56:14+00:00",
+          "downloadURL": "asset://fa58dcdaa81078eec9a4.ipa",
+          "minOSVersion": "17.0",
+          "size": 5215829,
+          "version": "1.0"
+        }
+      ]
     }
   ],
   "description": "Apps for my own devices.",
