@@ -19,6 +19,15 @@
       "subtitle": "",
       "versions": [
         {
+          "version": "11.02",
+          "buildVersion": "194",
+          "date": "2026-11-13T20:25:36+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/ce4e04aefbe378b7dfcb.ipa",
+          "size": 5476758,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Further carfax sticker implementation"
+        },
+        {
           "version": "10.91",
           "buildVersion": "192",
           "date": "2026-11-13T18:15:02+00:00",
