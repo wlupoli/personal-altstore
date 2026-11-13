@@ -19,13 +19,21 @@
       "subtitle": "",
       "versions": [
         {
-          "version": "10.90",
+          "version": "10.91",
+          "buildVersion": "192",
+          "date": "2026-11-13T18:15:02+00:00",
+          "downloadURL": "asset://f37c88c4e994c0f9c447.ipa",
+          "size": 5411497,
+          "minOSVersion": "17.0"
+        },
+        {
           "buildVersion": "191",
           "date": "2026-11-13T06:51:59+00:00",
           "downloadURL": "asset://a1b5d8eb2e3cbecb82c7.ipa",
-          "size": 5409061,
+          "localizedDescription": "Added carfax window sticker support (still testing)",
           "minOSVersion": "17.0",
-          "localizedDescription": "Added carfax window sticker support (still testing)"
+          "size": 5409061,
+          "version": "10.90"
         },
         {
           "buildVersion": "190",
