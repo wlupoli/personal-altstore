@@ -179,6 +179,15 @@
       "subtitle": "",
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-11-14T17:39:31+00:00",
+          "downloadURL": "asset://4dccdfc9743425e51a7e.ipa",
+          "size": 718539,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Added shared folders and guest tools"
+        },
+        {
           "buildVersion": "1",
           "date": "2026-11-14T06:12:29+00:00",
           "downloadURL": "asset://dd605b6f44cb7494c88d.ipa",
