@@ -19,29 +19,29 @@
       "subtitle": "",
       "versions": [
         {
-          "version": "11.03",
           "buildVersion": "195",
           "date": "2026-11-14T05:28:59+00:00",
           "downloadURL": "asset://14ccdd80cd7fdc59865a.ipa",
+          "minOSVersion": "17.0",
           "size": 5482633,
-          "minOSVersion": "17.0"
+          "version": "11.03"
         },
         {
-          "version": "11.02",
           "buildVersion": "194",
           "date": "2026-11-13T20:25:36+00:00",
           "downloadURL": "asset://ce4e04aefbe378b7dfcb.ipa",
-          "size": 5476758,
+          "localizedDescription": "Further carfax sticker implementation",
           "minOSVersion": "17.0",
-          "localizedDescription": "Further carfax sticker implementation"
+          "size": 5476758,
+          "version": "11.02"
         },
         {
-          "version": "10.91",
           "buildVersion": "192",
           "date": "2026-11-13T18:15:02+00:00",
           "downloadURL": "asset://f37c88c4e994c0f9c447.ipa",
+          "minOSVersion": "17.0",
           "size": 5411497,
-          "minOSVersion": "17.0"
+          "version": "10.91"
         },
         {
           "buildVersion": "191",
@@ -125,21 +125,6 @@
       ]
     },
     {
-      "name": "Car Care",
-      "bundleIdentifier": "com.carfax.MyCarfaxApp",
-      "developerName": "",
-      "localizedDescription": "carfax with full VIN viewing. ",
-      "iconURL": "asset://75acdf9dfdd42d73eabe.png",
-      "versions": [
-        {
-          "version": "5.10",
-          "buildVersion": "1450",
-          "date": "2026-11-14T05:32:02+00:00",
-          "downloadURL": "asset://637d075e0fdd0b412abb.ipa",
-          "size": 323267462,
-          "minOSVersion": "17.0"
-        }
-      ],
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -153,16 +138,31 @@
           "keychain-access-groups"
         ],
         "privacy": {
-          "NSCameraUsageDescription": "This application uses your camera so you can add car photos, scan a VIN and upload receipts.",
-          "NSUserTrackingUsageDescription": "Tracking helps us measure and improve our online ad campaigns across partner apps and websites.",
-          "NSCalendarsUsageDescription": "This application uses your calendar to add reminders.",
-          "NSLocationWhenInUseUsageDescription": "This application uses your location to determine what service shops are in your area.",
           "NSCalendarsFullAccessUsageDescription": "This application uses your calendar to add reminders.",
+          "NSCalendarsUsageDescription": "This application uses your calendar to add reminders.",
+          "NSCameraUsageDescription": "This application uses your camera so you can add car photos, scan a VIN and upload receipts.",
           "NSContactsUsageDescription": "This application uses your contacts in order to set an event location.",
-          "NSPhotoLibraryUsageDescription": "This application uses your photo library so you can add car photos and upload receipts."
+          "NSLocationWhenInUseUsageDescription": "This application uses your location to determine what service shops are in your area.",
+          "NSPhotoLibraryUsageDescription": "This application uses your photo library so you can add car photos and upload receipts.",
+          "NSUserTrackingUsageDescription": "Tracking helps us measure and improve our online ad campaigns across partner apps and websites."
         }
       },
-      "subtitle": ""
+      "bundleIdentifier": "com.carfax.MyCarfaxApp",
+      "developerName": "wlupoli",
+      "iconURL": "asset://75acdf9dfdd42d73eabe.png",
+      "localizedDescription": "carfax with full VIN viewing. ",
+      "name": "Car Care",
+      "subtitle": "",
+      "versions": [
+        {
+          "buildVersion": "1450",
+          "date": "2026-11-14T05:32:02+00:00",
+          "downloadURL": "asset://637d075e0fdd0b412abb.ipa",
+          "minOSVersion": "17.0",
+          "size": 323267462,
+          "version": "5.10"
+        }
+      ]
     }
   ],
   "description": "Apps for my own devices.",
