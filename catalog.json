@@ -163,6 +163,30 @@
           "version": "5.10"
         }
       ]
+    },
+    {
+      "name": "Windows 11",
+      "bundleIdentifier": "me.ammaar.windowsios",
+      "developerName": "wlupoli",
+      "localizedDescription": "",
+      "iconURL": "",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T06:01:27+00:00",
+          "downloadURL": "asset://92e89e22992226e7426a.ipa",
+          "size": 546761,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Windows 11 and Antigravity use your iPhone Duo microphone for live voice input and audio capture."
+        }
+      },
+      "subtitle": ""
     }
   ],
   "description": "Apps for my own devices.",
