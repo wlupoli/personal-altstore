@@ -19,29 +19,29 @@
       "subtitle": "",
       "versions": [
         {
-          "version": "11.03",
           "buildVersion": "195",
           "date": "2026-11-14T05:28:59+00:00",
           "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/14ccdd80cd7fdc59865a.ipa",
+          "minOSVersion": "17.0",
           "size": 5482633,
-          "minOSVersion": "17.0"
+          "version": "11.03"
         },
         {
-          "version": "11.02",
           "buildVersion": "194",
           "date": "2026-11-13T20:25:36+00:00",
           "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/ce4e04aefbe378b7dfcb.ipa",
-          "size": 5476758,
+          "localizedDescription": "Further carfax sticker implementation",
           "minOSVersion": "17.0",
-          "localizedDescription": "Further carfax sticker implementation"
+          "size": 5476758,
+          "version": "11.02"
         },
         {
-          "version": "10.91",
           "buildVersion": "192",
           "date": "2026-11-13T18:15:02+00:00",
           "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/f37c88c4e994c0f9c447.ipa",
+          "minOSVersion": "17.0",
           "size": 5411497,
-          "minOSVersion": "17.0"
+          "version": "10.91"
         },
         {
           "buildVersion": "191",
@@ -121,6 +121,46 @@
           "minOSVersion": "17.0",
           "size": 5215829,
           "version": "1.0"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCalendarsFullAccessUsageDescription": "This application uses your calendar to add reminders.",
+          "NSCalendarsUsageDescription": "This application uses your calendar to add reminders.",
+          "NSCameraUsageDescription": "This application uses your camera so you can add car photos, scan a VIN and upload receipts.",
+          "NSContactsUsageDescription": "This application uses your contacts in order to set an event location.",
+          "NSLocationWhenInUseUsageDescription": "This application uses your location to determine what service shops are in your area.",
+          "NSPhotoLibraryUsageDescription": "This application uses your photo library so you can add car photos and upload receipts.",
+          "NSUserTrackingUsageDescription": "Tracking helps us measure and improve our online ad campaigns across partner apps and websites."
+        }
+      },
+      "bundleIdentifier": "com.carfax.MyCarfaxApp",
+      "developerName": "wlupoli",
+      "iconURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/75acdf9dfdd42d73eabe.png",
+      "localizedDescription": "carfax with full VIN viewing. ",
+      "name": "Car Care",
+      "subtitle": "",
+      "versions": [
+        {
+          "buildVersion": "1450",
+          "date": "2026-11-14T05:32:02+00:00",
+          "downloadURL": "https://github.com/wlupoli/personal-altstore/releases/download/altstore/637d075e0fdd0b412abb.ipa",
+          "minOSVersion": "17.0",
+          "size": 323267462,
+          "version": "5.10"
         }
       ]
     }
