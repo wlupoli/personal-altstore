@@ -189,29 +189,29 @@
       ]
     },
     {
-      "name": "Windows 11",
-      "bundleIdentifier": "io.nekohasekai.screensharing",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "asset://fe4d4337d090e8b2b719.png",
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-11-14T17:31:10+00:00",
-          "downloadURL": "asset://92b2322238bbd46755d7.ipa",
-          "size": 718257,
-          "minOSVersion": "17.0",
-          "localizedDescription": "added shared folders"
-        }
-      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
           "NSMicrophoneUsageDescription": "Windows 11 and Antigravity use your iPhone Duo microphone for live voice input and audio capture."
         }
       },
-      "subtitle": ""
+      "bundleIdentifier": "io.nekohasekai.screensharing",
+      "developerName": "wlupoli",
+      "iconURL": "asset://fe4d4337d090e8b2b719.png",
+      "localizedDescription": "windows 11 on ios updated",
+      "name": "Windows 11",
+      "subtitle": "",
+      "versions": [
+        {
+          "buildVersion": "1",
+          "date": "2026-11-14T17:31:10+00:00",
+          "downloadURL": "asset://92b2322238bbd46755d7.ipa",
+          "localizedDescription": "added shared folders",
+          "minOSVersion": "17.0",
+          "size": 718257,
+          "version": "1.0"
+        }
+      ]
     }
   ],
   "description": "Apps for my own devices.",
