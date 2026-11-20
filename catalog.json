@@ -155,6 +155,15 @@
       "subtitle": "",
       "versions": [
         {
+          "version": "5.11",
+          "buildVersion": "1477",
+          "date": "2026-11-20T16:53:04+00:00",
+          "downloadURL": "asset://2391dc2f66531eac280d.ipa",
+          "size": 323303797,
+          "minOSVersion": "17.0",
+          "localizedDescription": "updated for version 5.11"
+        },
+        {
           "buildVersion": "1450",
           "date": "2026-11-14T05:32:02+00:00",
           "downloadURL": "asset://637d075e0fdd0b412abb.ipa",
@@ -179,13 +188,13 @@
       "subtitle": "",
       "versions": [
         {
-          "version": "1.1",
           "buildVersion": "2",
           "date": "2026-11-14T17:39:31+00:00",
           "downloadURL": "asset://4dccdfc9743425e51a7e.ipa",
-          "size": 718539,
+          "localizedDescription": "Added shared folders and guest tools",
           "minOSVersion": "17.0",
-          "localizedDescription": "Added shared folders and guest tools"
+          "size": 718539,
+          "version": "1.1"
         },
         {
           "buildVersion": "1",
